@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    padding-top: 20px;
+    font-size: large;
+    background-color: lightpink;
+}
+.stop{
+    width:150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 650px;
+}
+.ready{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 650px;
+}
+.go{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 650px;
+}
+#button1{
+
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    background-color: red;
+    color: rgb(17, 15, 15);
+    margin-bottom: 20px;
+}
+#button2{
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    background-color: yellow;
+    color: rgb(27, 22, 22);
+    margin-bottom: 20px;
+}
+#button3{
+    height: 50px;
+    width: 80px;
+    font-size: large;
+    background-color: green;
+    color: rgb(14, 11, 11);
+    margin-bottom: 20px;
+}
+#button1:hover{
+    cursor: pointer;
+}
+#button2:hover{
+    cursor: pointer;
+}
+#button3:hover{
+    cursor: pointer;
+}
